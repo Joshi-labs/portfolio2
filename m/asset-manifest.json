@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/m/static/css/main.6731b7db.css",
+    "main.js": "/m/static/js/main.e8624f97.js",
+    "static/media/color-sharp-new.png": "/m/static/media/color-sharp-new.2116fc5f1c4e7ee26ef8.png",
+    "static/media/main-new.png": "/m/static/media/main-new.6b8fdef19ff3cda8e80a.png",
+    "static/media/banner-bg-new.jpg": "/m/static/media/banner-bg-new.52c326edb1acfdab700d.jpg",
+    "static/media/header-img.svg": "/m/static/media/header-img.84bf93eb20488a753440bf83d27db7bb.svg",
+    "static/media/footer-bg-new.png": "/m/static/media/footer-bg-new.fface3bc89ec90ae6d5f.png",
+    "static/media/i-cloud.png": "/m/static/media/i-cloud.475c47460d4f88ae9b52.png",
+    "static/media/CentraNo2-Bold.ttf": "/m/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/m/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/m/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/project-img4.jpg": "/m/static/media/project-img4.a3498d3ec888afd64347.jpg",
+    "static/media/CodSoft.png": "/m/static/media/CodSoft.fdd0ba47f2f356ff2ad1.png",
+    "static/media/Hart.jpeg": "/m/static/media/Hart.8033014784be8360ad44.jpeg",
+    "static/media/project-img5.jpg": "/m/static/media/project-img5.d9450efcb5899d53b4b3.jpg",
+    "static/media/project-img1.jpg": "/m/static/media/project-img1.810815d5e35a8aa2b7f0.jpg",
+    "static/media/i-sys.png": "/m/static/media/i-sys.1d94f8f34bc5c2f648b2.png",
+    "static/media/project-img8.jpg": "/m/static/media/project-img8.39b4e74482a6efaf661d.jpg",
+    "static/media/project-img7.jpg": "/m/static/media/project-img7.a4fd487325bd8e6858d0.jpg",
+    "static/media/i-web.png": "/m/static/media/i-web.1f493f06c4cf76032c3e.png",
+    "static/media/project-img6.jpg": "/m/static/media/project-img6.e1376fd3691811c88d88.jpg",
+    "static/media/contact-img.svg": "/m/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/i-game.png": "/m/static/media/i-game.49f32b6f888ce57f3804.png",
+    "static/media/i-os.png": "/m/static/media/i-os.581468f1842525629647.png",
+    "static/media/project-imgx.jpg": "/m/static/media/project-imgx.d6813dc0f8d935969fb7.jpg",
+    "static/media/revicons.eot": "/m/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/m/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/m/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/logo.svg": "/m/static/media/logo.049195442bfa625fae5e7b887d241496.svg",
+    "static/media/instagram.svg": "/m/static/media/instagram.b18e8b13bfd9723878b6901508522b2b.svg",
+    "static/media/leetcode.svg": "/m/static/media/leetcode.11a2e3f57684bba19a1b8c5485a97a65.svg",
+    "static/media/linkedin.svg": "/m/static/media/linkedin.721d5414c26365f117e71d46b6641cb2.svg",
+    "index.html": "/m/index.html",
+    "main.6731b7db.css.map": "/m/static/css/main.6731b7db.css.map",
+    "main.e8624f97.js.map": "/m/static/js/main.e8624f97.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6731b7db.css",
+    "static/js/main.e8624f97.js"
+  ]
+}
